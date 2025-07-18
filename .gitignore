@@ -1,0 +1,4 @@
+assignmentone/.terraform/
+assignmentone/*.tfstate
+assignmentone/*.tfstate.backup
+assignmentone/terraform.tfvars
